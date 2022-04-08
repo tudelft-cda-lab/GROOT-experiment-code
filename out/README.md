@@ -1,0 +1,1 @@
+This directory will fill with result figures and contains the `trees` and `forests` directories to be filled with fitted models in xgboost format (JSON).
